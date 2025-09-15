@@ -1,4 +1,4 @@
-<h1 align="center">SHRA௰AAИ</h1>
+<h1 align="center">Shrawaan Thapa</h1>
 <h3 align="center"></h3>
 <h3 align="center"><i><b>On a Beautiful Journey of Becoming a Better Developer</b></i></h3>
 
