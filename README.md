@@ -43,8 +43,8 @@ Proud of where I come from, and driven to build digital experiences that reflect
 
 ## License
 
-Copyright © 2019 [Shrawaan Thapa](https://github.com/shrawaanthapa).<br>
-This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
+Copyright © 2019 [Shrawaan Thapa](https://github.com/shrawaanthapa) <br>
+This project is [MIT](https://github.com/shrawaanthapa/shrawaanthapa/edit/main/LICENSE.md) licensed.
 
 
 # 🌐 Follow Us!
