@@ -51,15 +51,18 @@ This project is [MIT](https://github.com/shrawaanthapa/shrawaanthapa/edit/main/L
 # 🌐 Follow Us!
 
  <span style="width: 8px;"> </span>
-  <a href="https://instagram.com/midu.dev" target="blank">
+  <a href="https://www.instagram.com/shrawaan.thapa" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Canal de Instagram de midu.dev" height="23px" width="23px" />
   </a>
 
    <span style="width: 8px;"> </span>
-   <a href="https://youtube.com/midudev" target="blank">
+   <a href="https:https://www.youtube.com/shrawaan.thapa" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="midudev" height="23px" width="33px" />
   </a>
 
- <a href="mailto:sharwaan.thap@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
- <a href="https://www.instagram.com/shrawaan.thapa"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
- <a href="https://www.youtube.com/shrawaan.thapa"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+ <span style="width: 8px;"> </span>
+   <a href="mailto:sharwaan.thap@gmail.com/shrawaan.thapa" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="midudev" height="23px" width="33px" />
+  </a>
+
+
