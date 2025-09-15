@@ -54,15 +54,15 @@ This project is [MIT](https://github.com/shrawaanthapa/shrawaanthapa/edit/main/L
 <h3 align="center">
  <span style="width: 8px;"> </span>
   <a href="https://www.instagram.com/shrawaan.thapa" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Canal de Instagram de midu.dev" height="23px" width="33px">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Canal de Instagram de midu.dev" height="23px" width="29px">
   </a>
    <span style="width: 8px;"> </span>
    <a href="https:https://www.youtube.com/shrawaan.thapa" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="midudev" height="23px" width="33px">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="midudev" height="19px" width="29px">
   </a>
  <span style="width: 8px;"> </span>
    <a href="mailto:sharwaan.thap@gmail.com/shrawaan.thapa" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_Gmail_%282015-2020%29.svg" alt="midudev" height="23px" width="33px">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_Gmail_%282015-2020%29.svg" alt="midudev" height="19px" width="29px">
   </a>
 </h3>
 
