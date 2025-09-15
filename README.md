@@ -1,4 +1,4 @@
-<h1 align="center">Shrawaan Thapa</h1>
+<h1 align="center">SHRA௰AAИ</h1>
 <h3 align="center"></h3>
 <h3 align="center"><i><b>On a Beautiful Journey of Becoming a Better Developer</b></i></h3>
 
@@ -40,6 +40,12 @@ Proud of where I come from, and driven to build digital experiences that reflect
     [here](https://github.com/shrawaanthapa)
 - 📫 How to reach me
 - **sharwaan.thapa@gmail.com**
+
+## License
+
+Copyright © 2019 [Shrawaan Thapa](https://github.com/shrawaanthapa).<br>
+This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
+
 
 # 🌐 Follow Us!
 
