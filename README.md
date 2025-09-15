@@ -11,9 +11,32 @@
 
 # 👨‍🎤 About Myself:
 
-- 🌱 I’m currently learning **React Nodejs**
-- 💬 Ask me about **Typescript, CSS, Javascript**
-- 👨‍💻 All of my projects are available
+🔧 Core Skills
+
+- HTML, CSS, JavaScript mastery
+- Advanced animations, transitions & parallax effects
+- SVG graphics & scalable design systems
+- Stripe integration, cart logic & SEO optimization
+- Responsive layouts with client-controlled modularity
+
+🎨 Creative Focus
+
+- Designing bold, animated logos (like my evolving “ShraWaan” concept)
+- Building immersive e-commerce sites with cinematic flair
+- Blending code, design, and storytelling in portfolio showcases
+
+🧠 Approach
+
+   Methodical, curious, and collaborative—I thrive on step-by-step refinement and creative problem-solving. 
+   Every enhancement is a chance to level up, and every bug is a puzzle waiting to be solved.
+
+📍 Rooted in Moscow
+
+Proud of where I come from, and driven to build digital experiences that reflect both global standards and local pride.
+
+🧑‍💻 Project Print 
+
+- 👨‍💻 Projects are available
     [here](https://github.com/shrawaanthapa)
 - 📫 How to reach me
 - **sharwaan.thapa@gmail.com**
