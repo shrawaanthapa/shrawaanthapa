@@ -40,12 +40,13 @@ Proud of where I come from, and driven to build digital experiences that reflect
     [here](https://github.com/shrawaanthapa)
 - 📫 How to reach me
 - **sharwaan.thapa@gmail.com**
-
+  
 ## License
 
-Copyright © 2019 [Shrawaan Thapa](https://github.com/shrawaanthapa) <br>
+Copyright © 2019 [Shrawaan Thapa](https://github.com/shrawaanthapa)<br>
 
 This project is [MIT](https://github.com/shrawaanthapa/shrawaanthapa/edit/main/LICENSE.md) licensed
+
 
 <h3 align="center">
  🌐 Follow Us!
