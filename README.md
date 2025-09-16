@@ -34,7 +34,7 @@
 
 Proud of where I come from, and driven to build digital experiences that reflect both global standards and local pride.
 
-🧑‍💻 Project Print 
+🧑‍💻 Contact & Project
 
 - 👨‍💻 Projects are available
     [here](https://github.com/shrawaanthapa)
