@@ -21,7 +21,7 @@
 
 🎨 Creative Focus
 
-- Designing bold, animated logos (like my evolving “ShraWaan” concept)
+- Designing bold, animated logos (like my evolving “Shrawaan” concept)
 - Building immersive e-commerce sites with cinematic flair
 - Blending code, design, and storytelling in portfolio showcases
 
