@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1E90FF&center=true&vCenter=true&random=true&width=435&lines=Frontend+Developer!)](https://github.com/shrawaanthapa)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00CFFF&center=true&vCenter=true&width=500&height=50&lines=Full+Stack+Developer+%26+Web+Designer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1E90Ff&center=true&vCenter=true&width=500&height=50&lines=Full+Stack+Developer+%26+Web+Designer" />
 </p>
 
 <p align="center">
