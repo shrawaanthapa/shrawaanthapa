@@ -48,9 +48,7 @@ Copyright © 2019 [Shrawaan Thapa](https://github.com/shrawaanthapa)<br>
 This project is [MIT](https://github.com/shrawaanthapa/shrawaanthapa/edit/main/LICENSE.md) licensed
 
 
-<h3 align="center">
- 🌐 Follow Us!
-</h3>
+<h3 align="center">🌐 Follow Us!</h3>
 
 <h3 align="center">
  <span style="width: 8px;"> </span>
