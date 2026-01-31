@@ -2,7 +2,7 @@
 <h3 align="center"></h3>
 <h3 align="center"><i><b>On a Beautiful Journey of Becoming a Better Developer</b></i></h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1E90FF&center=true&vCenter=true&random=true&width=435&lines=I'm ; A ; Frontend+Developer!)](https://github.com/shrawaanthapa)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1E90FF&center=true&vCenter=true&random=true&width=435&lines=I'm; A; Frontend+Developer!)](https://github.com/shrawaanthapa)
 
 <p align="center">
 <a href="https://github.com/shrawaanthapa"><img src="https://img.shields.io/github/followers/shrawaanthapa?label=follow&style=social"></a>
